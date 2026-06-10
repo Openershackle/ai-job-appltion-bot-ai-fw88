@@ -1,4 +1,4 @@
-# 
+# 官方 AI Job Application Bot 插件。集成 边缘AI 和 AI安全，性能最大化。
 
 
 
